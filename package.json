@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Dhiliban",
   "main": "index.js",
-  "author": "",
+  "author": "Dhiliban",
   "license": "ISC",
   "scripts": {
     "start": "babel-node ./server/server.js",
